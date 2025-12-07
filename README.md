@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌙 Mostafa Osama — Front-End Developer  
+#  Mostafa Osama — Front-End Developer  
 ### React & Next.js Specialist  
 Building modern, fast, and elegant web experiences.
 
