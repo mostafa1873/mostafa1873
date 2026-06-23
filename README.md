@@ -36,7 +36,7 @@ Building modern, fast, and elegant web experiences.
 ---
 
 ## 🚀 Live Projects (Published on Google)
-### **1️⃣ Global Nexus — Marketing **
+### 1️⃣ Global Nexus — Marketing 
 🔗 https://globalnexuseg.com/  
 A complete corporate website built with a clean UI, fast performance, and smooth UX.
 
